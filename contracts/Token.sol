@@ -49,7 +49,7 @@ contract Token {
 
 
          console.log(
-        "Transferring from %s to %s %s tokens",
+        "Transferring from %s to %s %s token",
         msg.sender,
         to,
         amount
