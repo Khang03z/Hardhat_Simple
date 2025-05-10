@@ -1,6 +1,6 @@
 # 🪙 Simple Hardhat Token (MHT)
 
-Đây là một dự án smart contract đơn giản sử dụng Hardhat, được xây dựng như một phần của portfolio Web3 Developer. Smart contract triển khai một token ERC-20 cơ bản với các chức năng tối thiểu như khởi tạo token, chuyển token, và kiểm tra số dư.
+Đây là một dự án smart contract đơn giản sử dụng Hardhat. Smart contract triển khai một token ERC-20 cơ bản với các chức năng tối thiểu như khởi tạo token, chuyển token, và kiểm tra số dư.
 
 ---
 
